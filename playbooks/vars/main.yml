@@ -1,0 +1,5 @@
+---
+app_name: dummy
+repo_url: "git@github.com:paulanthonywilson/phoenix_dummy.git"
+app_port: 3001
+domains: ["dummy.cultivatehq.com"]
